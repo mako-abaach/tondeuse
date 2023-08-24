@@ -2,7 +2,7 @@
 
 Une tondeuse a gazon automatique destinée aux surfaces rectangulaires.
 
-## Project Overview
+## Description 
 
 Cette aplication permet de parcourir une liste des tondeuses et donne la position final des tondeuses.
 
@@ -17,7 +17,7 @@ Voici les élements pour demarrer l'application.
 
 Environneemnt : Eclipse, java 17, spring boot 3.1.2
 
-## Usage
+## Utilisation
 
 Pour tester l'application sur POSTMAN.
 
