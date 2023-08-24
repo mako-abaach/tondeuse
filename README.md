@@ -5,7 +5,8 @@ Une tondeuse a gazon automatique destinée aux surfaces rectangulaires.
 ## Project Overview
 
 Cette aplication permet de parcourir une liste des tondeuses et donne la position final des tondeuses.
-L'application prend en entrée un fichier qui contient les informations de la surface a parcourir et les informations de chque tondeuse ( position initial, orientation, chemin ).
+
+L'application prend en entrée un fichier qui contient les informations de la surface a parcourir et les informations de chaque tondeuse ( position initial, orientation, chemin ).
 
 ## Installation
 
